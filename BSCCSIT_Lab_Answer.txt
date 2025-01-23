@@ -1,1 +1,7 @@
-Rohit Gurung
+ git clone https://github.com/grg-rohit/LabExam.git
+git log
+git checkout -b  BSCCSIT_Lab_Test
+git branch
+git add .
+ git commit -m "message"
+git push origin "branch"
