@@ -5,3 +5,5 @@ git branch
 git add .
  git commit -m "message"
 git push origin "branch"
+git branch -r
+
